@@ -1,4 +1,4 @@
-def templatePath = 'https://github.com/mayraer11/jenkins-openshift/blob/main/template.json' 
+def templatePath = 'https://github.com/mayraer11/jenkins-openshift/blob/main/templatev1.json' 
 def templateName = 'nodejs-mongodb-example' 
 pipeline {
   agent {
